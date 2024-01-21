@@ -1,6 +1,6 @@
 title: Sol's Blog
 author: Sol
-email: sky910829@gmail.com
+email: email@abc.com
 description: > # this means to ignore newlines until "show_exerpts:"
   History of how to become a good backend developer
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -25,9 +25,9 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: samarsault
-    github:  https://github.com/sol-91/sol-91.github.io
+    # github:  github
     #linkedIn: in/samarsault
-    email: sky910829@gmail.com
+    # email: github
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
